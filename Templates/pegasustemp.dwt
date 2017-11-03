@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Pegasus Pizza</title>
+<!-- TemplateEndEditable -->
+<style type="text/css"> 
+<!-- 
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #CDE855;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+}
+.twoColFixLtHdr #container {
+	width: 780px;  /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	border: 1px solid #000000;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+} 
+.twoColFixLtHdr #header {
+	background: #A7C520;
+	padding: 0 0 0 0px;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
+	color: #FFF;
+	font-size: 1%;
+} 
+.twoColFixLtHdr #header h1 {
+	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
+	padding: 10px 10px;
+	font-size: 95%;
+}
+.twoColFixLtHdr #sidebar1 {
+	float: left; /* since this element is floated, a width must be given */
+	width: 160px; /* the actual width of this div, in standards-compliant browsers, or standards mode in Internet Explorer will include the padding and border in addition to the width */
+	background: #493F0B; /* the background color will be displayed for the length of the content in the column, but no further */
+	padding: 0px 10px 15px 20px;
+	font-size: 85%;
+	color: #FFF;
+}
+.twoColFixLtHdr #mainContent {
+	margin: 0 0 0 200px; /* the left margin on this div element creates the column down the left side of the page - no matter how much content the sidebar1 div contains, the column space will remain. You can remove this margin if you want the #mainContent div's text to fill the #sidebar1 space when the content in #sidebar1 ends. */
+	padding: 0 10px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+	color: #000;
+} 
+.twoColFixLtHdr #footer { 
+	padding: 0 10px 0 20px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+	background:#DDDDDD; 
+} 
+#copyright {
+	color: gray; font-style: italic; text-align:right 
+}
+.twoColFixLtHdr #footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 5px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+	font-size: 75%; color:#000
+}
+.fltrt { /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none; color: #CDE855
+}
+a:active {
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #493F0B;
+}
+.twoColFixLtHdr #container #header h3 {
+	font-size: 15pt;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.twoColFixLtHdr #container #header div p font {
+	font-size: 20pt; padding: 20px 20px 20px 20px
+}
+.rollover a { display:block; width:32px; background-color: #FFFFFF}
+.rollover a:hover { background-color: #990000}
+--> 
+</style><!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.twoColFixLtHdr #sidebar1 { width: 230px; }
+</style>
+<![endif]--><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColFixLtHdr #sidebar1 { padding-top: 30px; }
+.twoColFixLtHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body class="twoColFixLtHdr">
+<script type="text/javascript">
+(function() {
+var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
+s.type = 'text/javascript';
+s.async = true;
+s.src = 'http://widgets.digg.com/buttons.js';
+s1.parentNode.insertBefore(s, s1);
+})();
+
+
+
+-->
+</style>
+-->
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-6609629-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+</script>
+<script src="http://www.google.com/uds/api?file=uds.js&v=1.0&key=ABQIAAAApj7c3G5CqmMeM2hsLYUh8RRzqjSJdklj-ati1DqsoHKMJe775RQabeAT9qEJmoiCdZTzthrv-__s4w" type="text/javascript"></script>
+
+
+
+
+
+
+
+		<script language="Javascript" type="text/javascript">
+
+    	//<![CDATA[
+
+
+
+    	function OnLoad() {
+
+      	// Create a search control
+
+      	var searchControl = new GSearchControl();
+
+
+
+     	// create a search object
+
+      	var siteSearch = new GwebSearch();
+
+	  	siteSearch.setUserDefinedLabel("Fake Pegasus");
+
+	  	siteSearch.setUserDefinedClassSuffix("siteSearch");
+
+	  	siteSearch.setSiteRestriction("http://uoregon.edu/~dsopkin");
+
+	  	searchControl.addSearcher(siteSearch);
+
+      	// tell Google where to draw the searchbox
+
+      	searchControl.draw(document.getElementById("search-box"));
+
+
+
+    	}
+
+    	GSearch.setOnLoadCallback(OnLoad);
+
+
+
+    	//]]>
+
+		</script>
+
+
+<div id="container">
+  <div id="header">
+    <h 2align="left">
+    <div align="left">
+      <p><a href="../pegasusindex.html"><img src="../pegasuslogoroundcolor.jpg" width="138" height="134" alt="Pegasus" /></a></p>
+      <h3 align="right"><font face="MS Serif, New York, serif"></font>Serving the campus community since 1989!</h3> 
+    </div>
+<!-- end #header --></div>
+  <div id="sidebar1">
+    <h3><a href="../pegasusindex.html">Home</a></h3>
+    <h3><a href="../Menu.html">Menu</a></h3>
+    <h3><a href="../Fathoms.html">Fathom's Bar</a></h3>
+    <h3><a href="../Location.html">Locations</a></h3>
+    <h3><a href="../contact.html">Contact Us</a></h3>
+    <h3><a href="../Order.html">Order Now!</a></h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>  
+<h3>Hours of Operation:</h3>
+    <h4>Sun-Thurs 
+    9am to 12pm</h4>
+    <h4>Fri-Sat 
+    10am-2am </h4>
+    <p>&nbsp;</p>
+
+    <p align="center"><a href="http://www.twitter.com/fakepegasus"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" alt="Follow fakepegasus on Twitter"/></a></p>
+   
+    
+    
+  <!-- end #sidebar1 --></div>
+  <div id="mainContent">
+    
+    <!-- TemplateBeginEditable name="EditRegion3" -->
+    <h1>Welcome to Pegasus Pizza!</h1>
+    <p class="twoColFixLtHdr">Pegasus Pizza is a family-owned restaurant established in 1989. Our love of pizza has meant attention to the fine points of greatpizza preparation. We prepare our dough and sauce daily and only accept and use the highest quality fresh vegetables, cheeses, and meats. Combined with baking our product in traditional deck pizza ovens, we think you will understand why we have been voted the #1 Pizza Restaurant in Eugene for over a decade!</p>
+    <p>
+    <!-- TemplateEndEditable -->
+  <!-- end #mainContent --></div>
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --> <br class="clearfloat" />
+  <div id="footer">
+    <p>790 East 14th Ave  | Eugene, OR 97401  | p. 541 - 344 - 4471  | f. 541 - 321 - 1234</p>
+  <!-- end #footer --></div>
+<!-- end #container --> </div>
+</body>
+</html>
